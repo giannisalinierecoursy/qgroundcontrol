@@ -31,6 +31,9 @@
  * Initializes all the variables necessary for a compression run. This won't actually happen
  * until startCompression(...) is called.
  */
+/*
+ceci est un test de push 
+ */
 LogCompressor::LogCompressor(QString logFileName, QString outFileName, QString delimiter) :
 	logFileName(logFileName),
 	outFileName(outFileName),
